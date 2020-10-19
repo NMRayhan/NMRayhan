@@ -49,7 +49,7 @@
                 <li><a href="#home" class="active"><i class="fa fa-home" aria-hidden="true"></i>Home</a></li>
                 <li><a href="#about"><i class="fa fa-user" aria-hidden="true"></i>About</a></li>
                 <li><a href="#service"><i class="fa fa-list" aria-hidden="true"></i>Services</a></li>
-                <li><a href="#portfolio"><i class="fa fa-briefcase" aria-hidden="true"></i>fortpolio</a></li>
+                <li><a href="#portfolio"><i class="fa fa-briefcase" aria-hidden="true"></i>portpolio</a></li>
                 <li><a href="#blog"><i class="fa fa-envelope" aria-hidden="true"></i>Blog</a></li>
                 <li><a href="#contact"><i class="fa fa-comments" aria-hidden="true"></i>Contact</a></li>
             </ul>
