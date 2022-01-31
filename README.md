@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayhan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Javascript and Front-End (and a beginner designer) developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on my **NodeJs Course**
+- 🔭 I’m currently working on my **Personal Project**
 
 - 🌱 I’m currently learning **NodeJS, HTML5 and CSS3**
 
