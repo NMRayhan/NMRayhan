@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Personal Project**
 
-- 🌱 I’m currently learning **NodeJS, HTML5 and CSS3**
+- 🌱 I’m currently learning **ReactJS,Bootstrap, HTML5 and CSS3 for Fontend Development**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
