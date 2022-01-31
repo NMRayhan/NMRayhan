@@ -47,6 +47,6 @@
 
 ------
 
-[BrantLauro](https://github.com/NMRayhan)
+[Nur Mohammad Rayhan](https://github.com/NMRayhan)
 
 Last Edited on: 05/08/2021
