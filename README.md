@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **NurMdRayhan97@gmail.com**
+- 📫 How to reach me: **NurMdRayhan97@gmail.com** or **nrayhan6271@gmail.com**
 
 - ⚡ What I like to do: **I like so much Watching Movie, Cricket and Swimming...and coding of course**
 
