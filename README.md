@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayhan</h1>
 <h3 align="center">A passionate Javascript and Front-End (and a beginner designer) developer from Bangladesh</h3>
 
-<a href="https://app.daily.dev/nurmohammadrayhan"><img src="https://api.daily.dev/devcards/80278892a3e445989491e1e8bdd55c49.png?r=4q0" width="400" alt="Nur Mohammad Rayhan's Dev Card"/></a>
+<a href="https://app.daily.dev/nurmohammadrayhan"><img src="https://api.daily.dev/devcards/80278892a3e445989491e1e8bdd55c49.png?r=4q0" width="300" alt="Nur Mohammad Rayhan's Dev Card"/></a>
 
 - 🔭 I’m currently working on my **Personal Project**
 
@@ -51,4 +51,4 @@
 
 [Nur Mohammad Rayhan](https://github.com/NMRayhan)
 
-Last Edited on: 30/01/2022
+Last Edited on: 04/09/2023
