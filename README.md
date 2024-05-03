@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayhan</h1>
-<h3 align="center">A passionate Javascript and Front-End (and a beginner designer) developer from Bangladesh</h3>
+<h3 align="center">A passionate Java developer from Bangladesh</h3>
 
 <div>
   <a href="https://app.daily.dev/nurmohammadrayhan"><img src="https://api.daily.dev/devcards/80278892a3e445989491e1e8bdd55c49.png?r=4q0" width="300" alt="Nur Mohammad Rayhan's Dev Card"/></a>
